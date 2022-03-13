@@ -1,5 +1,5 @@
-# node version: v14.17.6
-# commands for running project: 
+## node version: v14.17.6
+## commands for running project: 
 - npm install
 - npm start
 
